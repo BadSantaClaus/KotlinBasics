@@ -3,11 +3,11 @@ package org.example
 class LoopTest {
     companion object {
         fun loopTest() {
-            println("=standard=")
+            println("=fori=")
             for (i in 1..2) {
                 println("loop $i")
             }
-            println("=step=")
+            println("=fori + step=")
             for (i in 1..4 step 2) {
                 println("loop $i")
             }
