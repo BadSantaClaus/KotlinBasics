@@ -13,6 +13,7 @@ dependencies {
     implementation(kotlin("stdlib"))
     implementation("com.codeborne:selenide:7.0.4")
     testImplementation("org.jetbrains.kotlin:kotlin-test")
+    testImplementation("org.awaitility:awaitility:4.2.0")
 }
 
 tasks.test {

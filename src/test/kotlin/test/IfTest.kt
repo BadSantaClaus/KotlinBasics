@@ -1,4 +1,7 @@
-package org.example
+package test
+
+import divide
+
 
 class IfTest {
     companion object {

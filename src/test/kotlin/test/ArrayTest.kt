@@ -1,4 +1,7 @@
-package org.example
+package test
+
+import divide
+
 
 class ArrayTest {
     companion object {
